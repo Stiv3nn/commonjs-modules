@@ -16,3 +16,6 @@ console.log(person);
 
 // Esportazione di più elementi
 module.export = createFullName;
+
+// ALTERNATIVA PER ESPORTARE
+//module.export = {createFullName};
